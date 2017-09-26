@@ -1,0 +1,44 @@
+body {
+    background-color: dimgrey;
+    font-family: MisoRegular, Helvetica, Arial, sans-serif;
+    margin: 0;
+    
+}
+.header {
+    text-align: center;
+    color: white;
+    text-transform: uppercase;
+}
+
+.register-form {
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.form-elements {
+    padding-bottom: 10px;
+}
+
+label, button {
+    text-transform: uppercase;
+    color: #fff;
+}
+
+
+.message {
+    padding-top: 10px;
+}
+
+.submit-button {
+    float: middle;
+    background: black;
+    color: white;
+    border-color: black;
+    font-family: MisoRegular, Helvetica, Arial, sans-serif;
+    padding: 5px;
+    text-transform: uppercase;
+    }
+
+.select-box {
+    
+}
