@@ -17,11 +17,7 @@ body {
 
 label, button {
     text-transform: uppercase;
-    color: #fff;
-}
-
-.message {
-    padding-top: 10px;
+    color: white;
 }
 
 .submit-button {
@@ -33,5 +29,3 @@ label, button {
     padding: 5px;
     text-transform: uppercase;
     }
-
-$('form input[type=radio]:checked').val();
